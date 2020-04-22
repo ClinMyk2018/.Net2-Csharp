@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "W2.T1.ClinardMykal/1.0.0": {
+        "runtime": {
+          "W2.T1.ClinardMykal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W2.T1.ClinardMykal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\bin\Debug\netcoreapp3.1\W2.T2.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\bin\Debug\netcoreapp3.1\W2.T2.ClinardMykal.deps.json
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\bin\Debug\netcoreapp3.1\W2.T2.ClinardMykal.runtimeconfig.json
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\bin\Debug\netcoreapp3.1\W2.T2.ClinardMykal.runtimeconfig.dev.json
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\bin\Debug\netcoreapp3.1\W2.T2.ClinardMykal.dll
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\bin\Debug\netcoreapp3.1\W2.T2.ClinardMykal.pdb
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\obj\Debug\netcoreapp3.1\W2.T2.ClinardMykal.AssemblyInfoInputs.cache
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\obj\Debug\netcoreapp3.1\W2.T2.ClinardMykal.AssemblyInfo.cs
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\obj\Debug\netcoreapp3.1\W2.T2.ClinardMykal.dll
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T2.ClinardMykal\obj\Debug\netcoreapp3.1\W2.T2.ClinardMykal.pdb

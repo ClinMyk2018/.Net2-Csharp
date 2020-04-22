@@ -1,0 +1,9 @@
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\bin\Debug\W2.T3.ClinardMykal.exe.config
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\bin\Debug\W2.T3.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\bin\Debug\W2.T3.ClinardMykal.pdb
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\obj\Debug\W2.T3.ClinardMykal.csprojAssemblyReference.cache
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\obj\Debug\W2.T3.ClinardMykal.Form1.resources
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\obj\Debug\W2.T3.ClinardMykal.Properties.Resources.resources
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\obj\Debug\W2.T3.ClinardMykal.csproj.GenerateResource.cache
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\obj\Debug\W2.T3.ClinardMykal.exe
+C:\Users\mykal\Desktop\CMU\net II\Week 2\W2.T3.ClinardMykal\obj\Debug\W2.T3.ClinardMykal.pdb
